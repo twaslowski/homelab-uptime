@@ -1,7 +1,7 @@
 url: https://server-prod.grammr.app/actuator/health
-status: down
-code: 404
-responseTime: 460
-lastUpdated: 2025-07-06T15:35:47.561Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2025-07-06T15:43:30.868Z
 startTime: 2025-07-06T15:35:46.578Z
 generator: Upptime <https://github.com/upptime/upptime>
