@@ -5,7 +5,7 @@ sites:
   - name: Grafana
     url: https://grafana.twaslowski.com
   - name: grammr-server
-    url: https://server-prod.grammr.app
+    url: https://server-prod.grammr.app/actuator/health
 
 status-website:
   baseUrl: /homelab-uptime
