@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 977,
-    "timeWeek": 1035,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "time": 1093,
+    "timeDay": 1138,
+    "timeWeek": 1093,
+    "timeMonth": 1093,
+    "timeYear": 1093,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server-prod.grammr.app.ico",
     "slug": "grammr-server",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
-    "dailyMinutesDown": {
-      "2025-07-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 528,
+    "timeDay": 528,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
+    "dailyMinutesDown": {}
   }
 ]
