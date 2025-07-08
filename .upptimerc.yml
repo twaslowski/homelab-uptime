@@ -6,6 +6,8 @@ sites:
     url: https://grafana.twaslowski.com
   - name: grammr-server
     url: https://server-prod.grammr.app/actuator/health
+  - name: Vaultwarden
+    url: https://warden.twaslowski.com
 
 status-website:
   baseUrl: /homelab-uptime
