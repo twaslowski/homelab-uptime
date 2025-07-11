@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/grafana.twaslowski.com.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "96.84%",
-    "uptimeDay": "83.44%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.84%",
-    "time": 964,
-    "timeDay": 920,
-    "timeWeek": 964,
-    "timeMonth": 964,
-    "timeYear": 964,
+    "uptime": "93.41%",
+    "uptimeDay": "64.20%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "93.41%",
+    "time": 929,
+    "timeDay": 731,
+    "timeWeek": 929,
+    "timeMonth": 929,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2025-07-10": 238
+      "2025-07-11": 16,
+      "2025-07-10": 499
     }
   },
   {
@@ -25,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server-prod.grammr.app.ico",
     "slug": "grammr-server",
     "status": "up",
-    "uptime": "96.03%",
+    "uptime": "96.20%",
     "uptimeDay": "83.45%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "96.03%",
-    "time": 483,
-    "timeDay": 477,
-    "timeWeek": 483,
-    "timeMonth": 483,
-    "timeYear": 483,
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "96.20%",
+    "time": 482,
+    "timeDay": 418,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-07-10": 238
     }
@@ -45,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/warden.twaslowski.com.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "93.44%",
-    "uptimeDay": "83.44%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "93.44%",
-    "time": 456,
-    "timeDay": 492,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "uptime": "86.82%",
+    "uptimeDay": "64.21%",
+    "uptimeWeek": "86.82%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "86.82%",
+    "time": 452,
+    "timeDay": 413,
+    "timeWeek": 452,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-07-10": 238
+      "2025-07-11": 16,
+      "2025-07-10": 499
     }
   }
 ]
