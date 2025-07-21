@@ -1,7 +1,7 @@
 url: https://grafana.twaslowski.com
-status: down
-code: 530
-responseTime: 78
-lastUpdated: 2025-07-21T12:28:47.339Z
+status: up
+code: 200
+responseTime: 796
+lastUpdated: 2025-07-21T12:50:41.293Z
 startTime: 2025-07-05T13:50:13.209Z
 generator: Upptime <https://github.com/upptime/upptime>
