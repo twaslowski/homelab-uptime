@@ -4,8 +4,6 @@ repo: homelab-uptime
 sites:
   - name: Grafana
     url: https://grafana.twaslowski.com
-  - name: grammr-server
-    url: https://server-prod.grammr.app/actuator/health
   - name: Vaultwarden
     url: https://warden.twaslowski.com
 
