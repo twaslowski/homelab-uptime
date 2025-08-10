@@ -2,12 +2,12 @@ owner: twaslowski
 repo: homelab-uptime
 
 sites:
-  - name: Grafana
-    url: https://grafana.twaslowski.com
   - name: Vaultwarden
     url: https://warden.twaslowski.com
   - name: paperless-ngx
     url: https://paperless.twaslowski.com
+  - name: memos
+    url: https://memos.twaslowski.com
 
 
 status-website:
