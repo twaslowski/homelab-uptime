@@ -59,18 +59,19 @@
     "url": "https://memos.twaslowski.com",
     "icon": "https://icons.duckduckgo.com/ip3/memos.twaslowski.com.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 513,
-    "timeDay": 643,
-    "timeWeek": 506,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "time": 510,
+    "timeDay": 518,
+    "timeWeek": 499,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {
+      "2025-08-31": 0,
       "2025-08-13": 23
     }
   }
