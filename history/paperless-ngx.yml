@@ -1,7 +1,7 @@
 url: https://paperless.twaslowski.com
-status: up
-code: 200
-responseTime: 12935
-lastUpdated: 2025-10-25T00:47:33.643Z
+status: down
+code: 502
+responseTime: 440
+lastUpdated: 2025-10-25T05:52:57.163Z
 startTime: 2025-07-24T08:06:37.010Z
 generator: Upptime <https://github.com/upptime/upptime>
